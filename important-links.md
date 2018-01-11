@@ -8,6 +8,8 @@ These are various important links for the programming team.
 
 2018 LabVIEW: http://www.ni.com/download/labview-for-frc-17.0/7185/en/
 
+LabVIEW Activation Code: M83X19858
+
 NavX Library: https://www.pdocs.kauailabs.com/navx-mxp/software/
 
 CTRE Install Instructions: https://github.com/CrossTheRoadElec/Phoenix-Documentation#installing-phoenix-framework-onto-pc
