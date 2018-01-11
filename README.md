@@ -7,7 +7,7 @@ For anyone interested in coding anything see the [beginners](https://github.com/
 For interacting with the robot see the [robot-basics](robot-basics.md) page
 
 ## 3rd party docs
-links to other sources or pages
+[2018 important links](important-links.md)
 
 ## something else
 Write things here
