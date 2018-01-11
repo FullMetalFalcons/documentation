@@ -1,4 +1,5 @@
 
+
 Some common steps involved in interacting with the robot
 
 ## connecting to the robot
@@ -24,12 +25,19 @@ Also, check if the eithernet cables are suffecently plugged in to the white radi
 (requires reboot of the robot for E-stop)
 
 Solution to Possible problems:
+
 5a. If "Robot Code" is marked red, follow these instructions:
+
 5b. Open the most recent version of labview (should be a date next to the title. Ex. "LabView 2018")
+
 5c. Open the most recent code under the "Open" tab. Double click the first link.
+
 5d. Look for the Robot Main and Double click. Wait for it to load
+
 5e. A large grey box will pop up and then press the white arrow in the top left corner
+
 5f. It is now pushing the code onto the robot (make sure you are connected!) and just press next to whenever it asks you to
+
 5g. When the box disapears, the box should be green on the driverstation next to "Robot Code"
 
 ## drive station setup
