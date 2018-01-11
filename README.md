@@ -6,5 +6,8 @@ For anyone interested in coding anything see the [beginners](https://github.com/
 ## robot interaction
 For interacting with the robot see the [robot-basics](robot-basics.md) page
 
+## 3rd party docs
+links to other sources or pages
+
 ## something else
 Write things here
