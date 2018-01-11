@@ -40,13 +40,21 @@ If red, consult the above solutions.
 3. Buttons and symbols and their uses/meanings:
 
 Enable: Turns on the robots ability to drive
+
 Disable: Turns off the robots ability to drive
+
 Teleoperated: Goes into manual driving mode
+
 Autonomous: Goes into auto mode to test out auto driving.
+
 Battery Symbol: Gives readout of Battery Voltage and it fills up and empties the battery respectively
+
 Error box: Shows errors that the robot is pushing out maybe due to insufficent code, problems, or too much code.
+
 The vast majority of the time it should not matter and is nothing to really worry about.
+
 Settings/gear symbol: Shows name of team (must be correct name of Radio) and some game data
+
 USB logo: Shows current USB imput devices. They must be in their respective slots.
 
 # notes
