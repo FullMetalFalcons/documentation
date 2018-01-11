@@ -1,5 +1,3 @@
-
-
 Some common steps involved in interacting with the robot
 
 ## connecting to the robot
@@ -10,6 +8,7 @@ Some common steps involved in interacting with the robot
 4. Open Driver Station and look for the green box next to communications
 
 Solutions to Possible Problem:
+
 5. If thete is a problem connecting and no wifi signal poping up, turn on and off the robot and try again. 
 Also, check if the eithernet cables are suffecently plugged in to the white radio 
 
