@@ -27,7 +27,7 @@ CTRE Install Instructions: https://github.com/CrossTheRoadElec/Phoenix-Documenta
 
 CTRE Install Link: http://www.ctr-electronics.com/control-system/hro.html#product_tabs_technical_resources
 
-Choose CTRE Phoenix Framework Installer 5.1.3.1 (.zip)
+Choose CTRE Phoenix Framework Installer 5.2.1.1 (.zip)
 
 ## Screensteps/Tutorial
 IP networking at event: https://wpilib.screenstepslive.com/s/4485/m/24193/l/319135?data-resolve-url=true&data-manual-id=24193
