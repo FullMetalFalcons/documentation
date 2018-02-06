@@ -37,3 +37,5 @@ Roborio web dashboard: https://wpilib.screenstepslive.com/s/4485/m/cs_hardware/l
 Updating roborio firmware: https://wpilib.screenstepslive.com/s/4485/m/24193/l/273817-updating-your-roborio-firmware
 
 CTRE Phoenix docs: https://github.com/CrossTheRoadElec/Phoenix-Documentation
+
+navX MXP docs: https://www.pdocs.kauailabs.com/navx-mxp/
