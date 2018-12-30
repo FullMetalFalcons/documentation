@@ -9,6 +9,9 @@ For interacting with the robot see the [robot-basics](robot-basics.md) page
 ## Control System Documentation & Environment Set-Up
 For a list of documentation links for the control system and how to set up the environment for development (LabVIEW, etc.) see [2018 important links](important-links.md).
 
+## Mentors - Github Teams for Access Control
+For controlling which students have access to which code base (separation of concerns), we utilize built-in github teams.  This allows us to relatively easily manage who can push code to which repositories.  Github docs for [adding members](https://help.github.com/articles/adding-organization-members-to-a-team/) and [general team info](https://help.github.com/articles/about-teams/)
+
 ## Mentors - Repository Setup
 When creating/modifying a repository it is imperative that you add teams to the collaborators section under settings.  This separation of concerns ensures only specific students have write access to a particular repository and ensures we can track who modifies things at all times.
 
