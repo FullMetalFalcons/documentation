@@ -44,4 +44,4 @@ Note that this only works if all students and mentors are actually in a team, if
 
 
 ## Tutorials
-For various tutorials in LabVIEW and various control things we use, see [tutorials](tutorials.md).
+For various tutorials in Java and various libraries/dependencies, see [tutorials](tutorials.md).
