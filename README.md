@@ -1,6 +1,6 @@
 # Xavier-FTC Documentation Repository
 
-Welcome to the FXavier-FTC Documentation repository! This repository hopes to provide all the necessary information and resources for team members, mentors, and contributors, interested in programming.
+Welcome to the Xavier-FTC Documentation repository! This repository hopes to provide all the necessary information and resources for team members, mentors, and contributors, interested in programming.
 
 ## Student Documentation
 
