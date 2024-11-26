@@ -2,7 +2,11 @@
 
 Welcome to the Xavier-FTC Documentation repository! This repository hopes to provide all the necessary information and resources for team members, mentors, and contributors, interested in programming.
 
-## Student Documentation
+## 2024 Oboarding
+
+- [2024 Onboarding](2024/onboarding/README.md)
+
+## 2023 Student Documentation
 
 For detailed documentation created by a Xavier student:
 - [Xavier-FTC Wiki](https://github.com/jevgome/Xavier-FTC/wiki)
