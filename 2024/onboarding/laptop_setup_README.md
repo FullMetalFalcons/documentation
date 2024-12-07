@@ -30,7 +30,8 @@
       * FTC Software Docs - https://ftc-docs.firstinspires.org/en/latest/ 
       * FTC Game - https://www.firstinspires.org/robotics/ftc/game-and-season 
       * Programming Resources https://ftc-docs.firstinspires.org/en/latest/programming_resources/laptops/laptops.html 
-      * FTC GitHub - https://github.com/FIRST-Tech-Challenge/FtcRobotController 
+      * FTC GitHub - https://github.com/FIRST-Tech-Challenge/FtcRobotController
+      * GitHub - Beta8397/virtual_robot Simulator - https://github.com/Beta8397/virtual_robot
       * Discord - https://discord.com/invite/first-tech-challenge 
     * RoadRunner
       * Roadrunner SW - https://github.com/acmerobotics/road-runner 
@@ -38,7 +39,8 @@
       * Old Roadrunner docs with good content - https://learnroadrunner.com/feedforward-tuning.html#tuning 
     * Full Metal Falcons
       * FullMetalFalcons Docs - https://github.com/FullMetalFalcons/documentation
-      * FullMetalFalcons GitHub - https://github.com/FullMetalFalcons 
+      * FullMetalFalcons GitHub - https://github.com/FullMetalFalcons
+    * Robot Dashboard - 192.168.43.1:8080/dash
   * GitHub Desktop
     * Use default settings during install
     * Sign into GitHub via Edge, then click on *Sign in to GitHub.com* button
