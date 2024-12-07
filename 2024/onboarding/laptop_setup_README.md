@@ -70,7 +70,20 @@
         * For the *name* enter `ADB Reconnect`
       * NOTE: The first time you run ADB you need to allow it in the Windows Firewall via the popup:
       ![ADB Popup](https://github.com/FullMetalFalcons/documentation/blob/main/2024/onboarding/images/AndroidStudio%20-%20ADB%20authorize.png)
-    * Download each team’s repo?
+  * Download FTC Robot Simulator
+    * In Android Studio click *File* -> *New* -> *Project from Version Control*
+    * On the *Repository URL* tab
+      * Set the *Version Control* drop-down to `git`
+      * Enter `https://github.com/Beta8397/virtual_robot` for the URL
+    * Once the project has opened, go to *File* -> *Project Structure*
+      * On the *Project* tab, click on the SDK drop-down
+        * Choose `liberica-full-17` if it's in the list
+        * If it's not in the list, click on *Add SDK* and choose *Download JDK*
+          * In the *Version* drop-down, choose 17
+          * In the *Vendor* drop-down, choose `BellSoft Liberica JDK (Full)` (NOTE: It must say *Full* and the version number must start with 17)
+          * Click *Download*
+    * Once the download is complete, click the green arrow at the top of Android Studio to build and run the simulator
+  * Download each team’s repo?
   * REV Hardware Client
     * After install, run it and click the ‘Check for updates’ button
     * Under the Downloads tab, click the Download button next to:
