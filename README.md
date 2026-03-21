@@ -49,4 +49,9 @@ Here are some useful links for getting started and staying informed:
 - [FTC Info](https://ftc-docs.firstinspires.org/en/latest/index.html) - Comprehensive information about the FIRST Tech Challenge.
 - [FTC Discord Server](https://discord.com/invite/first-tech-challenge) - Community discussions and support, including a channel dedicated to RoadRunner.
 
+## Teaching Resources & Diagrams
+### Mecanum Drive
+<img width="1233" height="850" alt="image" src="https://github.com/user-attachments/assets/edb615ae-3dc3-4f20-8467-185e2680288b" />
 
+### Field-Centric Drive
+<img width="1003" height="936" alt="image" src="https://github.com/user-attachments/assets/aa475153-3dcc-4d93-82e5-c372ceadfdc6" />
