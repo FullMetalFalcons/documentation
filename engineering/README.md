@@ -6,11 +6,9 @@ This section covers the design theory and mechanical principles behind FTC robot
 
 Choosing a drivetrain is one of the most important engineering decisions for any FTC robot. The following pages cover the theory, vector math, and trade-offs of the most common holonomic drive systems.
 
-- **[Mecanum Drive](../shared/mecanum-drive.md)** — the standard holonomic drive; covers vector math, roller angles, and power scaling
-- **[X-Drive](../shared/x-drive.md)** — an alternative holonomic layout using standard wheels at 45° angles
-- **[Field-Centric Drive](../shared/field-centric-drive.md)** — IMU-based control that makes joystick inputs relative to the field
-
-> These pages are shared with the [Programming](../programming/README.md) section, which covers the code implementation of these drive systems.
+- **[Mecanum Drive](mecanum-drive.md)** — the standard holonomic drive; covers vector math, roller angles, and power scaling
+- **[X-Drive](x-drive.md)** — an alternative holonomic layout using standard wheels at 45° angles
+- **[Field-Centric Drive](field-centric-drive.md)** — IMU-based control that makes joystick inputs relative to the field
 
 ## Related Topics
 

@@ -23,11 +23,8 @@ For detailed connection and operation instructions, see [Robot Operations](../ro
 
 The drive system code is one of the first things you'll work on. These pages cover both the theory and implementation:
 
-- **[Mecanum Drive](../shared/mecanum-drive.md)** — the standard holonomic drive used by most FTC teams
-- **[X-Drive](../shared/x-drive.md)** — an alternative holonomic layout
-- **[Field-Centric Drive](../shared/field-centric-drive.md)** — an enhancement that makes joystick inputs relative to the field
-
-> These pages are shared with the [Engineering](../engineering/README.md) section, which covers the design theory behind these drive systems.
+- **[Mecanum Drive](mecanum-drive.md)** — the standard holonomic drive used by most FTC teams
+- **[Field-Centric Drive](field-centric-drive.md)** — an enhancement that makes joystick inputs relative to the field
 
 ## RoadRunner
 

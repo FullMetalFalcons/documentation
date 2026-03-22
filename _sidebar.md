@@ -4,15 +4,15 @@
 - **Programming**
   - [SDK, Tools & Simulator](programming/README.md)
   - [Dev Environment Setup](programming/dev-environment.md)
-  - [Mecanum Drive](shared/mecanum-drive.md)
-  - [Field-Centric Drive](shared/field-centric-drive.md)
+  - [Mecanum Drive](programming/mecanum-drive.md)
+  - [Field-Centric Drive](programming/field-centric-drive.md)
 - **Building**
   - [Overview](building/README.md)
 - **Engineering**
   - [Drive Systems & Design](engineering/README.md)
-  - [Mecanum Drive](shared/mecanum-drive.md)
-  - [X-Drive](shared/x-drive.md)
-  - [Field-Centric Drive](shared/field-centric-drive.md)
+  - [Mecanum Drive](engineering/mecanum-drive.md)
+  - [X-Drive](engineering/x-drive.md)
+  - [Field-Centric Drive](engineering/field-centric-drive.md)
 - **Outreach**
   - [Overview](outreach/README.md)
 - **Robot Operations**
