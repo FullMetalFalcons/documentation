@@ -1,6 +1,6 @@
 # Field-Centric Drive
 
-Field-centric drive is an enhancement to the standard [mecanum drive](README.md#mecanum-drive) that changes how driver inputs are interpreted.
+Field-centric drive is an enhancement to the standard [mecanum drive](mecanum-drive.md) that changes how driver inputs are interpreted.
 
 ## Robot-Centric vs. Field-Centric
 
@@ -13,7 +13,7 @@ Some drivers find field-centric more intuitive, while others find it disorientin
 
 ## Implementation
 
-The following code augments the standard mecanum drive code. It would be inserted where the green Javadoc comment appears in the [mecanum drive diagram](README.md#mecanum-drive).
+The following code augments the standard mecanum drive code. It would be inserted where the green Javadoc comment appears in the [mecanum drive diagram](mecanum-drive.md).
 
 <img width="890" height="635" alt="Field-Centric Drive Code and Diagram" src="https://github.com/user-attachments/assets/322e6e74-1045-4220-9f4a-b0b2fc30a933" />
 
@@ -45,9 +45,3 @@ The robot's heading can be read from:
 - An external sensor such as the **goBilda Pinpoint** odometry computer
 
 The code for reading heading is hardware-dependent and not shown in the diagram above. Additionally, depending on how the robot starts on the field, you may need to apply an offset to `headingFieldCentric` so that 0° corresponds to the robot facing away from the driver.
-
-## Related Topics
-
-- [Mecanum Drive](README.md#mecanum-drive) — prerequisite: the base drive code this builds on
-- [Robot Operations](../robot-operations/README.md) — testing your field-centric drive on the real robot
-- [Programming — Simulator](../programming/README.md#simulator) — iterate on drive code without hardware

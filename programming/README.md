@@ -19,6 +19,16 @@ The [FTC Robot Controller SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotC
 
 For detailed connection and operation instructions, see [Robot Operations](../robot-operations/README.md).
 
+## Drive Code
+
+The drive system code is one of the first things you'll work on. These pages cover both the theory and implementation:
+
+- **[Mecanum Drive](../shared/mecanum-drive.md)** — the standard holonomic drive used by most FTC teams
+- **[X-Drive](../shared/x-drive.md)** — an alternative holonomic layout
+- **[Field-Centric Drive](../shared/field-centric-drive.md)** — an enhancement that makes joystick inputs relative to the field
+
+> These pages are shared with the [Engineering](../engineering/README.md) section, which covers the design theory behind these drive systems.
+
 ## RoadRunner
 
 [RoadRunner](https://github.com/acmerobotics/road-runner) is a popular library built on top of the FTC SDK for advanced autonomous robot motion. It provides trajectory planning, motion profiling, and localization.
@@ -36,7 +46,7 @@ RoadRunner is discussed extensively on the [FTC Discord Server](https://discord.
 The [FTC Robot Simulator (virtual_robot)](https://github.com/Beta8397/virtual_robot) allows you to test OpModes without a physical robot. This is invaluable for:
 - Learning to code when you don't have access to the robot
 - Rapid iteration on autonomous routines
-- Testing drive system logic (see [Drive Systems](../drive-systems/README.md))
+- Testing drive system logic (see [Drive Code](#drive-code) above)
 
 For installation instructions, see [Development Environment Setup](../getting-started/dev-environment.md#ftc-robot-simulator-setup).
 
