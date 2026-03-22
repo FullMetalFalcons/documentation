@@ -13,14 +13,14 @@ This section covers the practical steps for connecting to, operating, and troubl
 
 - If the WiFi network does not appear, power-cycle the robot and try again
 - Verify all cables are securely connected to the Control Hub
-- If the Driver Station loses connection during operation, use the [ADB Reconnect shortcut](../getting-started/dev-environment.md#adb-reconnect-shortcut) to re-establish the debug bridge
+- If the Driver Station loses connection during operation, use the [ADB Reconnect shortcut](../programming/dev-environment.md#adb-reconnect-shortcut) to re-establish the debug bridge
 
 ## Deploying and Running Code
 
 ### Prerequisites
 - Robot is powered on and connected via WiFi
 - Gamepads are connected to the Driver Hub via USB
-- Your OpMode has been built and deployed from [Android Studio](../getting-started/dev-environment.md#android-studio-setup)
+- Your OpMode has been built and deployed from [Android Studio](../programming/dev-environment.md#android-studio-setup)
 
 ### Running an OpMode
 

@@ -1,9 +1,9 @@
 - [Home](README.md)
 - **Getting Started**
   - [Overview](getting-started/README.md)
-  - [Dev Environment Setup](getting-started/dev-environment.md)
 - **Programming**
   - [SDK, Tools & Simulator](programming/README.md)
+  - [Dev Environment Setup](programming/dev-environment.md)
   - [Mecanum Drive](shared/mecanum-drive.md)
   - [Field-Centric Drive](shared/field-centric-drive.md)
 - **Building**

@@ -6,7 +6,7 @@ Welcome to the Full Metal Falcons FTC documentation repository! This is a living
 
 | Section | Description |
 |---------|-------------|
-| [Getting Started](getting-started/README.md) | New member onboarding, hardware requirements, and development environment setup |
+| [Getting Started](getting-started/README.md) | New member orientation, team communication, and choosing your path |
 | [Programming](programming/README.md) | FTC SDK, Android Studio, drive code, simulation, and coding resources |
 | [Building](building/README.md) | CAD, fabrication, assembly, and wiring |
 | [Engineering](engineering/README.md) | Drive system theory, design principles, and mechanical concepts |

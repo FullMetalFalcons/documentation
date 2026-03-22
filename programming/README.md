@@ -48,7 +48,7 @@ The [FTC Robot Simulator (virtual_robot)](https://github.com/Beta8397/virtual_ro
 - Rapid iteration on autonomous routines
 - Testing drive system logic (see [Drive Code](#drive-code) above)
 
-For installation instructions, see [Development Environment Setup](../getting-started/dev-environment.md#ftc-robot-simulator-setup).
+For installation instructions, see [Development Environment Setup](dev-environment.md#ftc-robot-simulator-setup).
 
 ## IDE & Tools
 
@@ -58,4 +58,4 @@ For installation instructions, see [Development Environment Setup](../getting-st
 | [REV Hardware Client](https://docs.revrobotics.com/rev-hardware-client) | Firmware updates, backups, and hub management |
 | [GitHub Desktop](https://desktop.github.com/download/) | Simplified Git client |
 
-For full setup instructions, see [Development Environment Setup](../getting-started/dev-environment.md).
+For full setup instructions, see [Development Environment Setup](dev-environment.md).
