@@ -1,3 +1,15 @@
-- [Home](/README.md)
-  - [Legacy Docs](/legacy/2019/README.md)
-    - [Robot Basics](/legacy/2019/robot-basics.md)
+- [Home](README.md)
+- **Getting Started**
+  - [Overview](getting-started/README.md)
+  - [Dev Environment Setup](getting-started/dev-environment.md)
+- **Programming**
+  - [SDK, Tools & Simulator](programming/README.md)
+- **Drive Systems**
+  - [Mecanum & X-Drive](drive-systems/README.md)
+  - [Field-Centric Drive](drive-systems/field-centric-drive.md)
+- **Robot Operations**
+  - [Connect, Deploy & Drive](robot-operations/README.md)
+- **Team Management**
+  - [GitHub & Access Control](team-management/README.md)
+- **Resources**
+  - [External Links](resources/README.md)
